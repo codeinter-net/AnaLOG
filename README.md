@@ -1,4 +1,4 @@
-# anaLOG
+# AnaLOG
 Analog recorder for Arduino
 
 Functionnalities :
