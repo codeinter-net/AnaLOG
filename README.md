@@ -1,5 +1,5 @@
 # AnaLOG
-Analog recorder for Arduino
+Generic analog recorder for Arduino
 
 Functionnalities :
 - Records 1 to 5 analogs channels into NVRAM
